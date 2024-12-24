@@ -17,7 +17,7 @@ Este projeto é uma aplicação Laravel simples para gerenciar estudantes, inclu
 
 ### 1. Clone o Repositório
 ```bash
-git clone https://github.com/seu-usuario/crud-estudantes.git
+git clone https://github.com/GabrielViniciusLCM/Crud-Estudantes-Laravel.git
 cd crud-estudantes
 ```
 
