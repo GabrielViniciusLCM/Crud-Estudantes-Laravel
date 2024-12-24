@@ -17,7 +17,7 @@ Este projeto é uma aplicação Laravel simples para gerenciar estudantes, inclu
 
 ### 1. Clone o Repositório
 ```bash
-git clone https://github.com/GabrielViniciusLCM/Crud-Estudantes-Laravel.git
+git clone https://github.com/GabrielViniciusLCM/Gerenciamento-Estudantes.git
 cd crud-estudantes
 ```
 
@@ -38,14 +38,14 @@ Edite o arquivo `.env` para configurar o banco de dados local do XAMPP. Exemplo:
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=crud_estudantes
+DB_DATABASE=gerenciamento_estudantes
 DB_USERNAME=root
 DB_PASSWORD=
 ```
 
 ### 4. Crie o Banco de Dados
 1. Abra o **phpMyAdmin** (geralmente em [http://localhost/phpmyadmin](http://localhost/phpmyadmin)).
-2. Crie um banco de dados chamado `crud_estudantes`.
+2. Crie um banco de dados chamado `gerenciamento_estudantes`.
 
 ---
 
